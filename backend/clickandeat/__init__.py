@@ -1,0 +1,3 @@
+"""
+CLICK&EAT Backend Package
+"""
